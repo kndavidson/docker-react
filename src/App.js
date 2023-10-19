@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p> 
-        But what if ... I were to purchase fast food and disguise it as my own cooking?
+        Ho-ho-ho-ho-ho. Delightfully devilish, Seymour.
         </p>
         <a
           className="App-link"
